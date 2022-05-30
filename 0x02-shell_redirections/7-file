@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo 'Best School' > cav
 =======
 echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 >>>>>>> fd77a48e8c74a1c10282486f994531b3bf19e419
+=======
+echo 'Best School' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+>>>>>>> 30460f9359e5a9a05fa9d124d72a8568de00f161
